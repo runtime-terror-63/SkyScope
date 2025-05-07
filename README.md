@@ -10,7 +10,7 @@ SkyScope is a user-friendly weather application built with HTML, CSS, and JavaSc
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/skyscope.git`
+1. Clone the repository: `git clone https://github.com/runtime-terror-63/skyscope.git`
 2. Open the `skyscope.html` file in your web browser.
 
 ##Photos
